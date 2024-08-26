@@ -79,5 +79,9 @@
 #
 8.
 ![изображение](https://github.com/user-attachments/assets/e639e3f8-5ed9-4bd0-9870-7b4b13313708)
+#
+9.
+![изображение](https://github.com/user-attachments/assets/54190e56-62de-46be-ba0e-39ff06f5677b)
+
 
 
