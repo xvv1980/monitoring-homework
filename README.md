@@ -76,4 +76,8 @@
 #
 7.
 ![изображение](https://github.com/user-attachments/assets/f3c860df-23d1-453b-bda9-e15c9a47d477)
+#
+8.
+![изображение](https://github.com/user-attachments/assets/e639e3f8-5ed9-4bd0-9870-7b4b13313708)
+
 
