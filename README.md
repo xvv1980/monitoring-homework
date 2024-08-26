@@ -74,3 +74,6 @@
  
 ```
 #
+7.
+![изображение](https://github.com/user-attachments/assets/f3c860df-23d1-453b-bda9-e15c9a47d477)
+
